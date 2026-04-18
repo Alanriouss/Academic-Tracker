@@ -1,4 +1,4 @@
-package Module.main.java.Module;
+package main.java.Module;
 
 import java.io.Serializable;
 public class Course implements Serializable{
