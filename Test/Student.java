@@ -33,7 +33,7 @@ public class Student implements Serializable {
         }
     }
 
-    // 🔥 TÍNH GPA TOÀN BỘ
+   // GPA
     public double calculateOverallGPA() {
         double totalPoints = 0;
         int totalCredits = 0;
@@ -54,7 +54,7 @@ public class Student implements Serializable {
         }
     }
 
-    // 🔥 XẾP LOẠI HỌC LỰC
+   // Grade
     public String getAcademicStanding() {
         double gpa = calculateOverallGPA();
 
