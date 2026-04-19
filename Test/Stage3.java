@@ -33,7 +33,7 @@ public class Stage3 {
 
             System.out.println("--------------------------------------------------");
             System.out.println("What would you like to do?");
-            System.out.println("[9] Manage a Course's Grades (Select by number)");
+            System.out.println("[M] Manage a Course's Grades (Select by number)");
             System.out.println("[1] Add a New Course");
             System.out.println("[2] Edit Course Details (Name/Credits)");
             System.out.println("[3] Update Course Status (Active/Completed/Dropped)");
